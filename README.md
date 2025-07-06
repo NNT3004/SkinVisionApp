@@ -4,7 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 1. Change ip by using ipconig on cmd 
-   You need to change the IP address in api.ts, auth-store.ts and history-store.ts files
+   - You need to change the IP address in api.ts, auth-store.ts and history-store.ts files
 
 
 2. Install dependencies
