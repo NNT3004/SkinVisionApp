@@ -32,3 +32,20 @@ You can start developing by editing the files inside the **app** directory. This
 -![login](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/1.png?v=1751876987088)
 
 -![signup](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/2.png?v=1751877172441)
+
+-![homepage](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/3.png?v=1751877289229)
+
+-![tên ảnh](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/4.png?v=1751877358834)
+
+-![tên ảnh](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/5.png?v=1751877406869)
+
+-![tên ảnh](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/6.png?v=1751877438028)
+
+-![tên ảnh](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/7.png?v=1751877467730)
+
+-![tên ảnh](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/8.png?v=1751877492068)
+
+
+
+
+
