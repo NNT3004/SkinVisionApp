@@ -29,6 +29,6 @@ In the output, you'll find options to open the app in a
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ## The project
--![Tên ảnh](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/1.png?v=1751876987088)
+-![login](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/1.png?v=1751876987088)
 
-
+-![signup](https://cdn.glitch.global/3eee690f-0227-4039-b9ce-c71a3d4aa83c/2.png?v=1751877172441)
